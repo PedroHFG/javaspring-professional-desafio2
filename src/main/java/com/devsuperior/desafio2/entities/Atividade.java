@@ -16,7 +16,7 @@ public class Atividade {
     private Double preco;
 
     @ManyToOne
-    @JoinColumn(name = "catgoria_id")
+    @JoinColumn(name = "categoria_id")
     private Categoria categoria;
 
     @OneToMany(mappedBy = "atividade")
