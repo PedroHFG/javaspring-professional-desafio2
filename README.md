@@ -29,7 +29,7 @@ A solução foi desenvolvida seguindo a arquitetura de Modelo de Domínio e ORM,
 
 ## 🏗️ Estrutura do Código
 
-O projeto segue uma estrutura organizada, com os serviços implementados como componentes Spring anotados com `@Service`.
+O projeto segue uma estrutura organizada, conforme desrcito abaixo:`.
 
 ```text
 src
